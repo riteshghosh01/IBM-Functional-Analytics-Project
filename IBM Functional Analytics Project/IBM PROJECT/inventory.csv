@@ -1,0 +1,5 @@
+product,current_stock,avg_daily_demand,lead_time_days,days_of_stock_left
+Product A,758,28,9,27.1
+Product B,722,26,9,27.8
+Product C,675,15,3,45.0
+Product D,275,17,10,16.2
